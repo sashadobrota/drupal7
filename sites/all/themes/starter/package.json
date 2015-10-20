@@ -1,0 +1,23 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "starter theme for drupal7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashadobrota/drupal7.git"
+  },
+  "author": "Alex S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashadobrota/drupal7/issues"
+  },
+  "homepage": "https://github.com/sashadobrota/drupal7#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}

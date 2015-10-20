@@ -1,5 +1,5 @@
 name = starter
-description = Please provide a description for your theme.
+description = Theme based on Omege theme for easypeasy development.
 base theme = omega
 screenshot = screenshot.png
 engine = phptemplate
